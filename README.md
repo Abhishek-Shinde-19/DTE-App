@@ -11,7 +11,7 @@ An Android application designed for **Digital Training Environment (DTE)** to en
 
 ## Screenshots
 
-
+![Interface](https://github.com/user-attachments/assets/d89cc38a-2026-4852-88fc-313e3567d62f)
 
 ## Technologies Used
 
