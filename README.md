@@ -50,11 +50,11 @@ Navigate through the app to access various features such as:
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any inquiries or feedback, please reach out:
+## Developers
+- [Abhishek](https://github.com/Abhishek-Shinde-19)
+- [Gaurav](https://github.com/gauravsalve206)
 
-**Developers**:  
-- Abhishek Shinde  
-- Gaurav Salve  
+## Contact
+For any inquiries or feedback, please reach out: 
 Email: darkside.abhiee@gmail.com  
 Made with ❤️ by Abhishek Shinde and Gaurav Salve
